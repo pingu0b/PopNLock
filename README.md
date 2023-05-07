@@ -18,3 +18,7 @@ Features:
   * Shuffle play
   * Download songs offline with just the YouTube url of the song
   * Extremely lightweight
+
+Cons:
+  * Might lack some features which are present in modern music players
+  * Might face some issues with the playsound module rarely
