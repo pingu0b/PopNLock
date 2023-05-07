@@ -1,0 +1,4 @@
+sudo apt-get install ffmpeg libavcodec-extra
+pip install mysql-connector-python
+pip install playsound
+pip install pytube
