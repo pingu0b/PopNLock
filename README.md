@@ -12,6 +12,8 @@ How to run:
   * Clone the repository.
   * Run the zing.py file using Python.
   
+![alt text](https://github.com/pingu0b/Zing/blob/main/Screenshots/Screenshot_1.png?raw=true)
+  
 Features:
   * Create Playlists
   * Play songs in the background
