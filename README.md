@@ -12,7 +12,8 @@ How to run:
   * Clone the repository.
   * Run the popnlock.py file using Python.
   
-  
+![alt text](https://github.com/pingu0b/PopNLock/blob/main/Screenshots/Screenshot_1.png?raw=true)
+
 Features:
   * Create Playlists
   * Play songs in the background
