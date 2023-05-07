@@ -5,7 +5,7 @@ import os
 import time
 import random
 
-print("*" * 50,"Zing Player","*" * 50)
+print("*" * 50,"Pop N Lock","*" * 50)
 
 pwd = input("Please enter your MySQL password: ")
 con = sql.connect(host = "localhost", user = "root", password = pwd)
@@ -168,4 +168,4 @@ while ren:
         print("Please enter a valid choice like 1, 2 or 3 ....")
         time.sleep(1)
 
-print("*" * 40, "Thanks for using Zing Player", "*" * 40)
+print("*" * 40, "Thanks for using Pop N Lock", "*" * 40)
