@@ -10,7 +10,7 @@ Requirements:
   
 How to run:
   * Clone the repository.
-  * Run the popnlock.py file using Python.
+  * Run the zingplayer.py file using Python.
   
 ![alt text](https://github.com/pingu0b/PopNLock/blob/main/Screenshots/Screenshot_1.png?raw=true)
 
