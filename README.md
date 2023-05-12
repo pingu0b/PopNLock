@@ -1,10 +1,10 @@
-# Pop N Lock
+# Zing Player
 A simple and extremely lightweight offline python music player that downloads the song locally using the url of the song on YouTube and creates playlists in MySQL .
 
 Requirements:
   * MySQL
   * Python
-  * Playsound module (pip install playsound)
+  * Pyglet module (pip install pyglet)
   * Pytube module (pip install pytube)
   * MySQL Connector (pip install mysql-connector-python)
   
