@@ -23,4 +23,3 @@ Features:
 
 Cons:
   * Might lack some features which are present in modern music players
-  * Might face some issues with the playsound module rarely
